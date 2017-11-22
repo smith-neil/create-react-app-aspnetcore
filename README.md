@@ -1,9 +1,10 @@
 create-react-app-aspnetcore
 ===========================
 
-Create React apps which are serviced by ASP.NET Core with no build configuration. This is not a fork of create-react-app.
+Create React apps which are serviced by ASP.NET Core with no build configuration. This is not a fork of create-react-app. This is much more opinionated than create-react-app.
 
-## Quick Overview
+Quick Overview
+--------------
 ```javascript
 npm install -g create-react-app-aspnetcore
 
